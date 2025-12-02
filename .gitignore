@@ -17,3 +17,4 @@ __pycache__/
 reports/*.html
 reports/*.json
 !reports/.gitkeep
+.DS_Store
