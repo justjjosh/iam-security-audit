@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Reports
+reports/*.html
+reports/*.json
+!reports/.gitkeep
